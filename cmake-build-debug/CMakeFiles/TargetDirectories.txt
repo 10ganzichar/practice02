@@ -1,0 +1,3 @@
+/Users/yalerin/Documents/practice02/cmake-build-debug/CMakeFiles/practice02.dir
+/Users/yalerin/Documents/practice02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yalerin/Documents/practice02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
